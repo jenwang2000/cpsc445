@@ -1,0 +1,13 @@
+"method","silhouette"
+"Louvain_noHarmony_0.1",0.132169761790154
+"Louvain_noHarmony_0.2",0.104940592417183
+"Louvain_noHarmony_0.3",0.0921636189528719
+"Louvain_Harmony_0.1",0.153209581333164
+"Louvain_Harmony_0.2",0.117583793587607
+"Louvain_Harmony_0.3",0.10717688854486
+"Leiden_noHarmony_0.1",0.132878693909863
+"Leiden_noHarmony_0.2",0.105030917096836
+"Leiden_noHarmony_0.3",0.0802683780705132
+"Leiden_Harmony_0.1",0.153990019625597
+"Leiden_Harmony_0.2",0.114929490658355
+"Leiden_Harmony_0.3",0.107497571580184

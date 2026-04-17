@@ -1,0 +1,13 @@
+"comparison","ARI","NMI"
+"Leiden_Harmony_vs_Leiden_noHarmony_0.1",0.834852917558316,0.77287637804848
+"Leiden_Harmony_vs_Leiden_noHarmony_0.2",0.758887513450438,0.723337397571698
+"Leiden_Harmony_vs_Leiden_noHarmony_0.3",0.634496573975623,0.658706248141844
+"Leiden_Harmony_vs_Louvain_Harmony_0.1",0.911757045850752,0.877660061280902
+"Leiden_Harmony_vs_Louvain_Harmony_0.2",0.812258578941254,0.822601950227161
+"Leiden_Harmony_vs_Louvain_Harmony_0.3",0.942298200555242,0.941799329399996
+"Leiden_noHarmony_vs_Louvain_noHarmony_0.1",0.991552960035243,0.97659660697806
+"Leiden_noHarmony_vs_Louvain_noHarmony_0.2",0.965007109050039,0.949455478532401
+"Leiden_noHarmony_vs_Louvain_noHarmony_0.3",0.894166908619824,0.882517128233228
+"Louvain_Harmony_vs_Louvain_noHarmony_0.1",0.764595497678245,0.701070364930174
+"Louvain_Harmony_vs_Louvain_noHarmony_0.2",0.641335278674074,0.652162921053077
+"Louvain_Harmony_vs_Louvain_noHarmony_0.3",0.674221969015658,0.681480452437693
